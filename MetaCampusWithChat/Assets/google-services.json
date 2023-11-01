@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774185634383",
+    "project_id": "meta-campus-1",
+    "storage_bucket": "meta-campus-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774185634383:android:9e9dace96651c2a71db83a",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.MetaCampus2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK0p9LD19kYMgWOMwH2OkEy9b5adqLbFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
